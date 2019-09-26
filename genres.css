@@ -12,7 +12,7 @@
 .yuukithemes-genre li a:after{content:"";position:absolute;background:#000;width:100%;height:100%;top:0;left:0;z-index:5;border-radius:4px}
 .yuukithemes-genre li a:hover:before{filter:grayscale(0) opacity(.7)}
 .yuukithemes-genre li a span{display:block;position:relative;z-index:12;}
-.yuukithemes-genre li a[title~=Action]:before{background-image:url("https://4.bp.blogspot.com/-2oSBPZr0CWA/WoxF7O94GoI/AAAAAAAAALY/R6FA4Xgi1FY3z-qk7LFc0UGRAUsLrVNkACLcBGAs/s1600/action1.png");}
+.yuukithemes-genre li a[title~=Action]:before{background-image:url("https://1.bp.blogspot.com/-0UmS-eIRT1w/XYzOnSM8RnI/AAAAAAAAMl4/dQi-c1zhwyU7qHFEVZEBRHcdeFth1q1AgCLcBGAsYHQ/s1600/Action.png");}
 .yuukithemes-genre li a[title~=Adventure]:before{background-image:url("https://2.bp.blogspot.com/-8n3713g-2qY/WoxF7Lbys7I/AAAAAAAAALg/Wjw4J0D0_goeUWN3jSaBVkdWMIb4qukDgCLcBGAs/s1600/adventure.png");}
 .yuukithemes-genre li a[title~=Comedy]:before{background-image:url("https://4.bp.blogspot.com/-_S3hv9jpt0c/WoxF8M1XRAI/AAAAAAAAALk/pMousek5Ji49-gledYTMiIP04x4UidhegCLcBGAs/s1600/comedy.png");}
 .yuukithemes-genre li a[title~=Demons]:before{background-image:url("https://3.bp.blogspot.com/-esJxbOGQtdc/WoxF8V-1g3I/AAAAAAAAALs/_b6qisXjW-cPY51xYzy7-Pa_nqSKXqTQgCLcBGAs/s1600/demons2.png");}
