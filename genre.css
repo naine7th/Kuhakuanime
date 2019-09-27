@@ -8,8 +8,8 @@
 .yuukithemes-genre ul{list-style:none;margin:0 -5px;padding:0}
 .yuukithemes-genre ul:after{content:"";display:block;clear:both}
 .yuukithemes-genre li a{display:block;color:#fff;z-index:10;position:relative;padding:9px;font-weight:700}
-.yuukithemes-genre li a:before{content:"";position:absolute;background:#fff center no-repeat;background-size:100%;top:0;left:0;width:100%;height:100%;border-radius:4px;filter:grayscale(1) opacity(.6);z-index:10}
-.yuukithemes-genre li a:after{content:"";position:absolute;background:#000;width:100%;height:100%;top:0;left:0;z-index:5;border-radius:4px}
+.yuukithemes-genre li a:before{content:"";position:absolute;background:#444444 center no-repeat;background-size:100%;top:0;left:0;width:100%;height:100%;border-radius:4px;filter:grayscale(1) opacity(.6);z-index:10}
+.yuukithemes-genre li a:after{content:"";position:absolute;background:#fff;width:100%;height:100%;top:0;left:0;z-index:5;border-radius:4px}
 .yuukithemes-genre li a:hover:before{filter:grayscale(0) opacity(.7)}
 .yuukithemes-genre li a span{display:block;position:relative;z-index:12;}
 .yuukithemes-genre li a[title~=Action]:before{background-image:url("https://1.bp.blogspot.com/-0UmS-eIRT1w/XYzOnSM8RnI/AAAAAAAAMl4/dQi-c1zhwyU7qHFEVZEBRHcdeFth1q1AgCLcBGAsYHQ/s1600/Action.png");}
@@ -46,7 +46,7 @@
 .yuukithemes-genre li a[title~=Supernatural]:before{background-image:url("https://1.bp.blogspot.com/-AxOCs8nb0OQ/XY1ov3ue26I/AAAAAAAAMoA/AgXJzls1hSkSKtfEDE69mTD-rmP50UuIQCLcBGAsYHQ/s1600/supernatural.jpg");}
 .yuukithemes-genre li a[title~=Super-Power]:before{background-image:url("https://1.bp.blogspot.com/-WZmNLG6kvNo/XY1ovkv8DtI/AAAAAAAAMn8/PTnfWb4qnBICVKudWZ1J42w6nvrX2zN8wCLcBGAsYHQ/s1600/super%2Bpower.jpg");}
 .yuukithemes-genre li a[title~=Thriller]:before{background-image:url("https://1.bp.blogspot.com/-ogRdpfcbqJs/XY1owliWP6I/AAAAAAAAMoE/KFLpGOba9A4bNnOBhT7KUIlY8iBTwLv0QCLcBGAsYHQ/s320/thriller.jpg");}
-.yuukithemes-genre li a[title~=Vampire]:before{background-image:url("https://4.bp.blogspot.com/-b9036SURy9w/WoxGFKnVgGI/AAAAAAAAAN4/HWAcUI3sOVwJBp6sCV5BcRkBzUCVJ7XwACLcBGAs/s1600/vampire.png");}
+.yuukithemes-genre li a[title~=Vampire]:before{background-image:url("https://1.bp.blogspot.com/-vpGYD7fWVk8/XY1owr6zhhI/AAAAAAAAMoI/mkHPQzaRZMg4Y5KXB7CgawkRzCIOealRwCLcBGAsYHQ/s1600/vampire.png");}
 @media screen and (max-width:480px){
 .yuukithemes-genre li{float:none;width:100%}.yuukithemes-genre li a{padding:11px}
 }
