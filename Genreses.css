@@ -9,7 +9,7 @@
 .yuukithemes-genre ul:after{content:"";display:block;clear:both}
 .yuukithemes-genre li a{display:block;color:#444444;z-index:10;position:relative;padding:9px;font-weight:700}
 .yuukithemes-genre li a:before{content:"";position:absolute;background:#444444 center no-repeat;background-size:50%;top:0;left:0;width:50%;height:50%;border-radius:4px;filter:grayscale(1) opacity(.6);z-index:10}
-.yuukithemes-genre li a:after{content:"";position:absolute;background:#444444;width:50%;height:100%;top:0;left:0;z-index:5;border-radius:4px}
+.yuukithemes-genre li a:after{content:"";position:absolute;background:#444444;width:50%;height:50%;top:0;left:0;z-index:5;border-radius:4px}
 .yuukithemes-genre li a:hover:before{filter:grayscale(0) opacity(.7)}
 .yuukithemes-genre li a span{display:block;position:relative;z-index:12;}
 .yuukithemes-genre li a[title~=Action]:before{background-image:url("https://1.bp.blogspot.com/-0UmS-eIRT1w/XYzOnSM8RnI/AAAAAAAAMl4/dQi-c1zhwyU7qHFEVZEBRHcdeFth1q1AgCLcBGAsYHQ/s1600/Action.png");}
