@@ -4,10 +4,10 @@
  *
  */
 
-.yuukithemes-genre li{float:left;width:calc(10% - 6px);text-align:center;position:relative;margin:3px}
+.yuukithemes-genre li{float:left;width:calc(25% - 3px);text-align:center;position:relative;margin:3px}
 .yuukithemes-genre ul{list-style:none;margin:0 -5px;padding:0}
 .yuukithemes-genre ul:after{content:"";display:block;clear:both}
-.yuukithemes-genre li a{display:block;color:#444444;z-index:10;position:relative;padding:9px;font-weight:700}
+.yuukithemes-genre li a{display:block;color:#fff;z-index:10;position:relative;padding:9px;font-weight:700}
 .yuukithemes-genre li a:before{content:"";position:absolute;background:#444444 center no-repeat;background-size:100%;top:0;left:0;width:100%;height:100%;border-radius:4px;filter:grayscale(1) opacity(.6);z-index:10}
 .yuukithemes-genre li a:after{content:"";position:absolute;background:#444444;width:100%;height:100%;top:0;left:0;z-index:5;border-radius:4px}
 .yuukithemes-genre li a:hover:before{filter:grayscale(0) opacity(.7)}
